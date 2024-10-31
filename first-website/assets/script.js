@@ -53,3 +53,7 @@ function myFunc(){
 // creates variable for button element(superbutton)
 let superButton = document.getElementById('superbutton')
 superButton.addEventListener('click', myFunc)
+
+// git add -A
+// git commit -m "commit message describing what's changed"
+// git push origin
