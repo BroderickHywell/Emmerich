@@ -1,5 +1,5 @@
 // variables
-let ourString = 'strings' // single quotes or double quotes for strings
+let ourString = 'new string' // single quotes or double quotes for strings
 let ourNumber = 5         // numbers
 let ourBoolean = false     // booleans hold true or false
 const bestNum = 69        // const makes variables unchangable
