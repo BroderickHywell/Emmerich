@@ -54,6 +54,8 @@ function myFunc(){
 let superButton = document.getElementById('superbutton')
 superButton.addEventListener('click', myFunc)
 
+// GIT GUIDE
+// git pull   (gets data from github so you're up to date)
 // git add -A
 // git commit -m "commit message describing what's changed"
-// git push origin
+// git push --set-upstream origin "branch name" (only have to do this line the first time, then just git push)
