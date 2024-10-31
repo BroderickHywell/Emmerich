@@ -59,3 +59,7 @@ superButton.addEventListener('click', myFunc)
 // git add -A
 // git commit -m "commit message describing what's changed"
 // git push --set-upstream origin "branch name" (only have to do this line the first time, then just git push)
+
+// GIT BRANCH GUIDE
+// git checkout -b new-branch (for creating new branches)
+// git checkout other-branch  (for traveling to already made branches)
